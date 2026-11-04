@@ -43,4 +43,4 @@ Sigue estos pasos para clonar y ejecutar la aplicación en tu entorno local:
 
 1. **Clona el repositorio:**
    ```bash
-   git clone [https://github.com/tu-usuario/pokedex_app.git](https://github.com/tu-usuario/pokedex_app.git)
+   git clone [https://github.com/AZL-H/Pokedex_aza]([https://github.com/tu-usuario/pokedex_app.git](https://github.com/AZL-H/Pokedex_aza)
