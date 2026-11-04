@@ -2,6 +2,10 @@
 
 Una aplicación de Pokédex moderna y robusta desarrollada en **Flutter**, diseñada para ofrecer una experiencia nativa fluida tanto en dispositivos móviles (**Android**) como en navegadores web (**Google Chrome**) gracias a su arquitectura híbrida con persistencia local mediante **SQLite** y **WebAssembly (IndexedDB)**.
 
+
+## 👨‍💻 Autor
+Desarrollado como proyecto académico de ingeniería, demostrando buenas prácticas de desarrollo móvil y web multiplataforma, arquitectura de bases de datos locales y consumo de servicios REST.
+
 ---
 
 ## ✨ Características Principales
