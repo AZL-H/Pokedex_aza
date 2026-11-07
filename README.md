@@ -43,4 +43,4 @@ Desarrollado como proyecto académico de ingeniería, demostrando buenas prácti
 
 ## 🚀 Cómo Ejecutar el Proyecto
 
-Descargar el archivo app-release.7z y descomprimir para instalar en un teléfono inteligente Android o ios
+Descargar el archivo app-release.7z y descomprimir para instalar en un teléfono inteligente Android.
