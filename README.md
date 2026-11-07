@@ -43,8 +43,4 @@ Desarrollado como proyecto académico de ingeniería, demostrando buenas prácti
 
 ## 🚀 Cómo Ejecutar el Proyecto
 
-Sigue estos pasos para clonar y ejecutar la aplicación en tu entorno local:
-
-1. **Clona el repositorio:**
-   ```bash
-   git clone [https://github.com/AZL-H/Pokedex_aza]([https://github.com/tu-usuario/pokedex_app.git](https://github.com/AZL-H/Pokedex_aza)
+Descargar el archivo app-release.7z y descomprimir para instalar en un teléfono inteligente Android o ios
